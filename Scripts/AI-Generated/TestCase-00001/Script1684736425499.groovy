@@ -1,7 +1,7 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.model.FailureHandling
 
 'Initialize test session: Open browser and set view port'
@@ -44,7 +44,7 @@ WebUI.enhancedClick(testObj)
 
 'step 4: Add visual checkpoint at Page_sign-in'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00005_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00001_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
