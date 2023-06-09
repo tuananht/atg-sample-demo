@@ -1,8 +1,8 @@
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.model.FailureHandling
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import internal.GlobalVariable as GlobalVariable
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.model.FailureHandling
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -10,11 +10,11 @@ WebUI.openBrowser('')
 
 WebUI.setViewPortSize(1920, 1080)
 
-'step 1: Login at https://www.saucedemo.com/ --> navigate to Page_inventory_html'
-
-'--> Navigate to application login page'
+'step 1: Navigate to Page_home'
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
+
+'step 2: Login at https://www.saucedemo.com/ --> navigate to Page_inventory_html'
 
 '--> At login page input username'
 
@@ -61,10 +61,6 @@ WebUI.submit(testObj)
 '--> Wait for login action to be completed'
 
 WebUI.delay(15)
-
-'step 2: Navigate to Page_inventory_html'
-
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/inventory.html')
 
 'step 3: At Page_inventory_html click on hyperlink_object --> navigate to Page_cart_html'
 
