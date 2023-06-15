@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_free-trial_api-testing",
+        "step 2: At Page_free-trial_api-testing click on input_receive_new_update",
+        "step 3: At Page_free-trial_api-testing click on div_object --> navigate to Page_terms",
+        "step 4: Add visual checkpoint at Page_terms"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_freemium",
+        "step 2: At Page_freemium click on div_object",
+        "step 3: At Page_freemium click on hyperlink_api_testing --> navigate to Page_api-testing",
+        "step 4: At Page_api-testing click on hyperlink_sign_in --> navigate to Page_sign-in",
+        "step 5: Add visual checkpoint at Page_sign-in"
+    ]
+}
