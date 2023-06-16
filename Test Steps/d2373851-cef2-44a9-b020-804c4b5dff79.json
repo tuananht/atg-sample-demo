@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_how-to-write-katalon-studio-tests-with-intellij-idea-and-other-ides",
+        "step 2: At Page_t_how-to-write-katalon-studio-tests-with-intellij-idea-and-other-ides click on div_ember4 --> navigate to Page_t_getting-invalid-test-case-s-while-adding-ado-test-case-id-variable",
+        "step 3: Add visual checkpoint at Page_t_getting-invalid-test-case-s-while-adding-ado-test-case-id-variable"
+    ]
+}
