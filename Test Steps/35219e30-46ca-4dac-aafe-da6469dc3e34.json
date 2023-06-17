@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_user_license_create_kse",
-        "step 2: At Page_user_license_create_kse input on input_machine_id",
-        "step 3: At Page_user_license_create_kse click on button_create_license_key",
-        "step 4: Add visual checkpoint at Page_user_license_create_kse"
-    ]
-}
