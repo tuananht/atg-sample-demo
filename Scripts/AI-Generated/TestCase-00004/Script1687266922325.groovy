@@ -1,8 +1,8 @@
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.model.FailureHandling
 import internal.GlobalVariable as GlobalVariable
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 'Initialize test session: Open browser and set view port'
 
@@ -90,23 +90,9 @@ WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/admin(?:#.*)
 
 WebUI.enhancedClick(testObj)
 
-'step 5: At Page_admin_sa-users click on div_object'
+'step 5: At Page_admin_sa-users click on button_object'
 
-testObj = findTestObject('Object Repository/Page_admin_sa-users/div_object')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/admin/sa-users(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 6: At Page_admin_sa-users click on section_object'
-
-testObj = findTestObject('Object Repository/Page_admin_sa-users/section_object')
+testObj = findTestObject('Object Repository/Page_admin_sa-users/button_object')
 
 WebUI.delay(3)
 
@@ -118,23 +104,9 @@ WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/admin/sa-use
 
 WebUI.enhancedClick(testObj)
 
-'step 7: At Page_admin_sa-users click on hyperlink_object'
+'step 6: Add visual checkpoint at Page_admin_sa-users'
 
-testObj = findTestObject('Object Repository/Page_admin_sa-users/hyperlink_object')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/admin/sa-users(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 8: Add visual checkpoint at Page_admin_sa-users'
-
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00000_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00004_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
