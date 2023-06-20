@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_when-i-try-run-test-browser-not-open",
+        "step 2: At Page_t_when-i-try-run-test-browser-not-open click on div_object",
+        "step 3: Add visual checkpoint at Page_t_when-i-try-run-test-browser-not-open"
+    ]
+}

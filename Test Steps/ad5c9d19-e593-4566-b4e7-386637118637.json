@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_export-report-to-pdf",
+        "step 2: At Page_t_export-report-to-pdf click on div_object --> navigate to Page_t_export-report-to-1",
+        "step 3: At Page_t_export-report-to-1 click on div_object",
+        "step 4: Add visual checkpoint at Page_t_export-report-to-1"
+    ]
+}

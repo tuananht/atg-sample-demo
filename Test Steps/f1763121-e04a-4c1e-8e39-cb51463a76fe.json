@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_how-to-change-desired-capabilities-during-executing-the-test-suit-on-real-android-device",
+        "step 2: At Page_t_how-to-change-desired-capabilities-during-executing-the-test-suit-on-real-android-device click on code_object --> navigate to Page_t_how-to-change-desired-capabilities-during-executing-the-test-suit-on-real-android-2",
+        "step 3: Add visual checkpoint at Page_t_how-to-change-desired-capabilities-during-executing-the-test-suit-on-real-android-2"
+    ]
+}

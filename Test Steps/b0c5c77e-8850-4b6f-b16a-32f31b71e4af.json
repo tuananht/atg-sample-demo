@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_test-execution-throught-suite-displays-org-openqa-selenium-webdriverexception-java-net-socketexception-connection-reset",
+        "step 2: At Page_t_test-execution-throught-suite-displays-org-openqa-selenium-webdriverexception-java-net-socketexception-connection-reset click on div_object",
+        "step 3: Add visual checkpoint at Page_t_test-execution-throught-suite-displays-org-openqa-selenium-webdriverexception-java-net-socketexception-connection-reset"
+    ]
+}

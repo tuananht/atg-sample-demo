@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_faq",
+        "step 2: At Page_faq click on hyperlink_ --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_t_mobile_execution_ci_cd_on_a_gh_actions --> navigate to Page_t_testlink-integration-not-showing-in-plugin-section",
+        "step 4: Add visual checkpoint at Page_t_testlink-integration-not-showing-in-plugin-section"
+    ]
+}

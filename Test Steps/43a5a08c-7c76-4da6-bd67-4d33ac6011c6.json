@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_gitignore-template-for-katalon-studio",
+        "step 2: At Page_t_gitignore-template-for-katalon-studio click on div_object",
+        "step 3: At Page_t_gitignore-template-for-katalon-studio click on code_object",
+        "step 4: Add visual checkpoint at Page_t_gitignore-template-for-katalon-studio"
+    ]
+}

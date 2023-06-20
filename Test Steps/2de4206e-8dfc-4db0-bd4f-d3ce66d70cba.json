@@ -1,0 +1,6 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_xpath-not-working-in-katalon-but-works-in-chrome-dev-tools",
+        "step 2: Add visual checkpoint at Page_t_xpath-not-working-in-katalon-but-works-in-chrome-dev-tools"
+    ]
+}

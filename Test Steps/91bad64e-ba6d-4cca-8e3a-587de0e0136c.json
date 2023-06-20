@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_u",
+        "step 2: At Page_u click on div_object --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_forum_katalon_com_t --> navigate to Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know",
+        "step 4: At Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know click on div_object",
+        "step 5: Add visual checkpoint at Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_asserteval-find-one-instance",
+        "step 2: At Page_t_asserteval-find-one-instance click on hyperlink_europe1_discourse_44350da2e49cb10eb6a42",
+        "step 3: Add visual checkpoint at Page_t_asserteval-find-one-instance"
+    ]
+}

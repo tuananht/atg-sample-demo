@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_katalon-ini-should-speciify-dfile-encoding-utf-8",
+        "step 2: At Page_t_katalon-ini-should-speciify-dfile-encoding-utf-8 click on hyperlink_europe1_discourse_759a0957aeee1754e0e4f",
+        "step 3: Add visual checkpoint at Page_t_katalon-ini-should-speciify-dfile-encoding-utf-8"
+    ]
+}

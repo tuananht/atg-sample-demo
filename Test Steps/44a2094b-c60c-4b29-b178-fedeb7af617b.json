@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_javascript-dom-awaiting-visible-invisible",
+        "step 2: At Page_t_javascript-dom-awaiting-visible-invisible click on div_object --> navigate to Page_t_javascript-dom-awaiting-visible-2",
+        "step 3: Add visual checkpoint at Page_t_javascript-dom-awaiting-visible-2"
+    ]
+}
