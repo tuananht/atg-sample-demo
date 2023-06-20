@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://qa2.shoutforgood.net/login --> navigate to Page_admin_create-event-ticketing",
+        "step 3: Add visual checkpoint at Page_admin_create-event-ticketing"
+    ]
+}
