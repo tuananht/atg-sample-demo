@@ -1,8 +1,8 @@
+import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.model.FailureHandling
-import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -14,9 +14,9 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
 
-'step 2: At Page_home click on hyperlink_explore --> navigate to Page_explore'
+'step 2: At Page_home click on hyperlink_about_us --> navigate to Page_about-us'
 
-testObj = findTestObject('Object Repository/Page_home/hyperlink_object_25')
+testObj = findTestObject('Object Repository/Page_home/hyperlink_object_24')
 
 WebUI.delay(3)
 
@@ -28,21 +28,7 @@ WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/(?:#.*)?(?:\
 
 WebUI.enhancedClick(testObj)
 
-'step 3: At Page_explore click on hyperlink_explore_search --> navigate to Page_explore_search'
-
-testObj = findTestObject('Object Repository/Page_explore/hyperlink_object_5')
-
-WebUI.delay(3)
-
-WebUI.takeScreenshot()
-
-WebUI.verifyElementPresent(testObj, 20, FailureHandling.CONTINUE_ON_FAILURE)
-
-WS.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain +'/explore(?:#.*)?(?:\\?.*)?$', true)
-
-WebUI.enhancedClick(testObj)
-
-'step 4: Add visual checkpoint at Page_explore_search'
+'step 3: Add visual checkpoint at Page_about-us'
 
 WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00000_visual_checkpoint')
 

@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_home",
-        "step 2: At Page_home click on hyperlink_explore --> navigate to Page_explore",
-        "step 3: At Page_explore click on hyperlink_explore_search --> navigate to Page_explore_search",
-        "step 4: Add visual checkpoint at Page_explore_search"
-    ]
-}

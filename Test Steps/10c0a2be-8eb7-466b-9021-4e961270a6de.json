@@ -1,9 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_home",
-        "step 2: At Page_home click on hyperlink_explore --> navigate to Page_explore",
-        "step 3: At Page_explore click on hyperlink_products --> navigate to Page_products",
-        "step 4: At Page_products click on hyperlink_products_fund --> navigate to Page_products_fund",
-        "step 5: Add visual checkpoint at Page_products_fund"
-    ]
-}
