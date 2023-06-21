@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_how-to-change-the-default-browser-in-katalon-studio",
+        "step 2: At Page_t_how-to-change-the-default-browser-in-katalon-studio click on hyperlink_ --> navigate to Page_home",
+        "step 3: At Page_home click on button_search_button",
+        "step 4: At Page_home click on div_ember4 --> navigate to Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know",
+        "step 5: Add visual checkpoint at Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know"
+    ]
+}

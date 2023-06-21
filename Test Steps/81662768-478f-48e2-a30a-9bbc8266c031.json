@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_downloading-files-not-working-anymore-in-chrome-headless-mode",
+        "step 2: At Page_t_downloading-files-not-working-anymore-in-chrome-headless-mode click on hyperlink_object --> navigate to Page_t_downloading-files-not-working-anymore-in-chrome-headless-1",
+        "step 3: Add visual checkpoint at Page_t_downloading-files-not-working-anymore-in-chrome-headless-1"
+    ]
+}
