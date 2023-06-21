@@ -7,13 +7,13 @@ WebUI.openBrowser('')
 
 WebUI.setViewPortSize(1920, 1080)
 
-'step 1: Navigate to Page_home'
+'step 1: Navigate to Page_terms'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/terms')
 
-'step 2: Add visual checkpoint at Page_home'
+'step 2: Add visual checkpoint at Page_terms'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00000_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00044_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
