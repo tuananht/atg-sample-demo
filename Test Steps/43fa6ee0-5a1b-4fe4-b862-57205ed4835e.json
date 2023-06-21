@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_katalon-recorder-ide",
+        "step 2: At Page_katalon-recorder-ide click on div_object",
+        "step 3: Add visual checkpoint at Page_katalon-recorder-ide"
+    ]
+}
