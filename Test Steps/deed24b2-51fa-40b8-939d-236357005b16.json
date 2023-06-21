@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on button_object",
+        "step 3: Login at https://qa2.shoutforgood.net/ --> navigate to Page_admin",
+        "step 4: At Page_admin click on hyperlink_object",
+        "step 5: At Page_admin click on hyperlink_admin_users --> navigate to Page_admin_users",
+        "step 6: At Page_admin_users click on tbody_object",
+        "step 7: Add visual checkpoint at Page_admin_users"
+    ]
+}

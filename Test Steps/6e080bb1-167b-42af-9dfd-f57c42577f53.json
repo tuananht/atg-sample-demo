@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_charities_smiling-mind",
+        "step 2: At Page_charities_smiling-mind click on button_tile_detail_donate_now_btn",
+        "step 3: Add visual checkpoint at Page_charities_smiling-mind"
+    ]
+}

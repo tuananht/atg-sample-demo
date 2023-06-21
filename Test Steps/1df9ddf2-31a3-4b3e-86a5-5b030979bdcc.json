@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_about-us",
+        "step 2: At Page_about-us click on hyperlink_products --> navigate to Page_products",
+        "step 3: At Page_products click on hyperlink_contact --> navigate to Page_contact",
+        "step 4: At Page_contact input on input_email",
+        "step 5: At Page_contact input on input_name",
+        "step 6: At Page_contact input on input_subject",
+        "step 7: At Page_contact click on textarea_message",
+        "step 8: Add visual checkpoint at Page_contact"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on button_object",
+        "step 3: Login at https://qa2.shoutforgood.net/ --> navigate to Page_admin",
+        "step 4: At Page_admin click on hyperlink_admin_sa_users --> navigate to Page_admin_sa-users",
+        "step 5: At Page_admin_sa-users click on div_object",
+        "step 6: At Page_admin_sa-users click on section_object",
+        "step 7: At Page_admin_sa-users click on hyperlink_object",
+        "step 8: At Page_admin_sa-users click on div_object",
+        "step 9: At Page_admin_sa-users click on span_object --> navigate to Page_my-profile",
+        "step 10: At Page_my-profile click on section_object",
+        "step 11: At Page_my-profile click on hyperlink_my_auction_bids --> navigate to Page_my-auction-bids",
+        "step 12: At Page_my-auction-bids click on hyperlink_recurring_plans --> navigate to Page_recurring-plans",
+        "step 13: At Page_recurring-plans click on div_object",
+        "step 14: Add visual checkpoint at Page_recurring-plans"
+    ]
+}

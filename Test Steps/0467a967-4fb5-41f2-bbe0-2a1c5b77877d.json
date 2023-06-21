@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_about-us",
+        "step 2: At Page_about-us click on hyperlink_products --> navigate to Page_products",
+        "step 3: At Page_products click on hyperlink_explore --> navigate to Page_explore",
+        "step 4: At Page_explore click on hyperlink_explore",
+        "step 5: At Page_explore click on hyperlink_products --> navigate to Page_products",
+        "step 6: At Page_products click on hyperlink_about_us --> navigate to Page_about-us",
+        "step 7: Add visual checkpoint at Page_about-us"
+    ]
+}
