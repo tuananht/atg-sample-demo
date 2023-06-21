@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_open-browser-with-custom-profile",
-        "step 2: At Page_t_open-browser-with-custom-profile click on div_object",
-        "step 3: Add visual checkpoint at Page_t_open-browser-with-custom-profile"
-    ]
-}

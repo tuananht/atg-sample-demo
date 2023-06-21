@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_why-does-katalon-not-store-changes-to-git-branches-separately-on-my-local-hard-drive",
-        "step 2: At Page_t_why-does-katalon-not-store-changes-to-git-branches-separately-on-my-local-hard-drive click on p_object",
-        "step 3: At Page_t_why-does-katalon-not-store-changes-to-git-branches-separately-on-my-local-hard-drive click on p_object",
-        "step 4: Add visual checkpoint at Page_t_why-does-katalon-not-store-changes-to-git-branches-separately-on-my-local-hard-drive"
-    ]
-}

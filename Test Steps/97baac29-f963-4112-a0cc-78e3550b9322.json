@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_chrome-not-loading-url-with-basic-auth",
-        "step 2: At Page_t_chrome-not-loading-url-with-basic-auth click on p_object --> navigate to Page_t_chrome-not-loading-url-with-basic-3",
-        "step 3: Add visual checkpoint at Page_t_chrome-not-loading-url-with-basic-3"
-    ]
-}

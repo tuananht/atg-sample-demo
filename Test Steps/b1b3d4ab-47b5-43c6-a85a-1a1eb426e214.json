@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_what-is-the-right-way-to-run-executions-on-testops-agents-local-or-docker-using-katalon-runtime-engine",
-        "step 2: At Page_t_what-is-the-right-way-to-run-executions-on-testops-agents-local-or-docker-using-katalon-runtime-engine click on div_object --> navigate to Page_t_what-is-the-right-way-to-run-executions-on-testops-agents-local-or-docker-using-katalon-runtime-4",
-        "step 3: Add visual checkpoint at Page_t_what-is-the-right-way-to-run-executions-on-testops-agents-local-or-docker-using-katalon-runtime-4"
-    ]
-}

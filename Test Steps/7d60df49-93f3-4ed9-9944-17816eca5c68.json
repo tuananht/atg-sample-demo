@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_random-string-generator-for-a-text-field",
-        "step 2: At Page_t_random-string-generator-for-a-text-field click on code_object --> navigate to Page_t_random-string-generator-for-a-text-2",
-        "step 3: Add visual checkpoint at Page_t_random-string-generator-for-a-text-2"
-    ]
-}

@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_katalon-automation-recorder-how-to-do-a-file-upload-htmlinputelement",
-        "step 2: At Page_t_katalon-automation-recorder-how-to-do-a-file-upload-htmlinputelement click on div_object --> navigate to Page_t_katalon-automation-recorder-how-to-do-a-file-upload-35",
-        "step 3: Add visual checkpoint at Page_t_katalon-automation-recorder-how-to-do-a-file-upload-35"
-    ]
-}

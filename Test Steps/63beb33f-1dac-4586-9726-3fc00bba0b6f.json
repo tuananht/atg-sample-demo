@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_execute-javascript",
-        "step 2: At Page_t_execute-javascript click on div_ember4 --> navigate to Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know",
-        "step 3: Add visual checkpoint at Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know"
-    ]
-}

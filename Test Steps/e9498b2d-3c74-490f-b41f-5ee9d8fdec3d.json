@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_t_invalid-license-message-in-logs-when-devops-build-pipeline-runs",
-        "step 2: At Page_t_invalid-license-message-in-logs-when-devops-build-pipeline-runs click on hyperlink_europe1_discourse_cdn_com_katalon_origi",
-        "step 3: At Page_t_invalid-license-message-in-logs-when-devops-build-pipeline-runs click on button_object",
-        "step 4: Add visual checkpoint at Page_t_invalid-license-message-in-logs-when-devops-build-pipeline-runs"
-    ]
-}
