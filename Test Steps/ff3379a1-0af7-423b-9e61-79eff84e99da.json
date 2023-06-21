@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_login",
-        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_notification_no-permissions",
-        "step 3: At Page_notification_no-permissions click on hyperlink_home --> navigate to Page_home",
-        "step 4: Add visual checkpoint at Page_home"
-    ]
-}
