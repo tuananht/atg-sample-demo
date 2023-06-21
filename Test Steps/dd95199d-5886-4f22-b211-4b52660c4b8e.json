@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_api-get-request-works-on-postman-but-not-on-katalon-with-same-authorization-and-access-token",
+        "step 2: At Page_t_api-get-request-works-on-postman-but-not-on-katalon-with-same-authorization-and-access-token click on hyperlink_europe1_discourse_58396fa433b7b0418c2d1",
+        "step 3: Add visual checkpoint at Page_t_api-get-request-works-on-postman-but-not-on-katalon-with-same-authorization-and-access-token"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_send-keys",
+        "step 2: At Page_t_send-keys click on hyperlink_ --> navigate to Page_home",
+        "step 3: At Page_home click on div_object",
+        "step 4: At Page_home click on button_search_button",
+        "step 5: At Page_home click on button_toggle_hamburger_menu",
+        "step 6: Add visual checkpoint at Page_home"
+    ]
+}

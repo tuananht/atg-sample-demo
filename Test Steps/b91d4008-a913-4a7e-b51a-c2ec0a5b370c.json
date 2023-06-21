@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_send-keys",
+        "step 2: At Page_t_send-keys click on hyperlink_ --> navigate to Page_home",
+        "step 3: At Page_home click on div_object",
+        "step 4: At Page_home click on div_ember4 --> navigate to Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know",
+        "step 5: At Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know click on div_object",
+        "step 6: Add visual checkpoint at Page_t_help-my-test-keeps-passing-but-should-fail-strange-i-know"
+    ]
+}

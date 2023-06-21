@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_unable-to-start-application-real-ios-device",
+        "step 2: At Page_t_unable-to-start-application-real-ios-device click on div_object --> navigate to Page_t_unable-to-start-application-real-ios-3",
+        "step 3: Add visual checkpoint at Page_t_unable-to-start-application-real-ios-3"
+    ]
+}

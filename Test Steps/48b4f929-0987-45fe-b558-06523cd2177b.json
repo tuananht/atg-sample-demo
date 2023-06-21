@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_button-on-click-does-not-load-page",
+        "step 2: At Page_t_button-on-click-does-not-load-page click on p_object",
+        "step 3: Add visual checkpoint at Page_t_button-on-click-does-not-load-page"
+    ]
+}

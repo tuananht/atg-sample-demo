@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_how-to-write-katalon-studio-tests-with-intellij-idea-and-other-ides",
+        "step 2: At Page_t_how-to-write-katalon-studio-tests-with-intellij-idea-and-other-ides click on div_object",
+        "step 3: At Page_t_how-to-write-katalon-studio-tests-with-intellij-idea-and-other-ides click on hyperlink_europe1_discourse_cdn_com_katalon_origi",
+        "step 4: Add visual checkpoint at Page_t_how-to-write-katalon-studio-tests-with-intellij-idea-and-other-ides"
+    ]
+}

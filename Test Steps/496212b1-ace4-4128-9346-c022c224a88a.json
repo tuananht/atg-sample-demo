@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_how-can-i-find-and-click-elements-in-my-calendar",
+        "step 2: At Page_t_how-can-i-find-and-click-elements-in-my-calendar click on hyperlink_europe1_discourse_3aa67b49f50790d242361",
+        "step 3: At Page_t_how-can-i-find-and-click-elements-in-my-calendar click on button_object",
+        "step 4: Add visual checkpoint at Page_t_how-can-i-find-and-click-elements-in-my-calendar"
+    ]
+}

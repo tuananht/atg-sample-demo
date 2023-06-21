@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_t_recap-how-to-do-mobile-test-automation-at-scale-with-katalon",
+        "step 2: At Page_t_recap-how-to-do-mobile-test-automation-at-scale-with-katalon click on hyperlink_forum_katalon_com_t_webinar_how_to_do_m --> navigate to Page_t_webinar-how-to-do-mobile-test-automation-at-scale-with-katalon",
+        "step 3: Add visual checkpoint at Page_t_webinar-how-to-do-mobile-test-automation-at-scale-with-katalon"
+    ]
+}
