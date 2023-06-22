@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_freemium",
+        "step 2: At Page_freemium click on div_object",
+        "step 3: Add visual checkpoint at Page_freemium"
+    ]
+}
